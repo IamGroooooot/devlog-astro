@@ -1,18 +1,14 @@
 [
-    {
-        "name": "Home",
-        "href": "/"
-    },
-    {
-        "name": "Donation",
-        "href": "/donation"
-    },
-    {
-        "name": "Blog",
-        "href": "/blog"
-    },
-    {
-        "name": "Snippets",
-        "href": "/snippets"
-    }
+  {
+    "name": "Home",
+    "href": "/"
+  },
+  {
+    "name": "Blog",
+    "href": "/blog"
+  },
+  {
+    "name": "Snippets",
+    "href": "/snippets"
+  }
 ]
